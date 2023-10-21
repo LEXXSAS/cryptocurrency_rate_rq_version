@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/cryptocurrency_rate_rq_version/static/css/main.cf24040d.css",
+    "main.js": "/cryptocurrency_rate_rq_version/static/js/main.cf400f42.js",
+    "index.html": "/cryptocurrency_rate_rq_version/index.html",
+    "main.cf24040d.css.map": "/cryptocurrency_rate_rq_version/static/css/main.cf24040d.css.map",
+    "main.cf400f42.js.map": "/cryptocurrency_rate_rq_version/static/js/main.cf400f42.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cf24040d.css",
+    "static/js/main.cf400f42.js"
+  ]
+}
